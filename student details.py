@@ -1,6 +1,7 @@
 #Author:Daiji kuriakose
 #date:1-10-2024
 #to view student name,ro;; no and cgpa
+#version2
 
 name=input("enter the name of the student:")
 roll_no=int(input("enter the roll number of the student:"))
