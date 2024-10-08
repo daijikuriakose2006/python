@@ -1,6 +1,6 @@
 """author: Daiji Kuriakose
    Date  : 08/10/2024
-   Create, concatenate, and print a string and access a sub-string from a given string."""
+   Write a Python program that performs the following tasks:"""
 num1=int(input ("enter first numbers"))
 num2=int(input("enter second number"))
 num3=int(input("enter third number"))
