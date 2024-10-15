@@ -1,6 +1,6 @@
 """
 Author: daiji Kuriakose
-Date:10-10-2024
+Date:15-10-2024
 Title:Python program to check weather the given number is positive or not
 """
 number=int(input("Enter a number"))
