@@ -1,6 +1,6 @@
 """
 Author: daiji Kuriakose
-Date:10-10-2024
+Date:15-10-2024
 Title:Python program to determine the entry ticket fare in a zoo based on age
 """
 age=int(input("Enter your age"))
