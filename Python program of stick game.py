@@ -12,13 +12,13 @@ while stick_remaining>0:
     print("stick remaining=",stick_remaining)
     n=int(input(f"{player} pick 1,2 or 3 sticks"))
     stick_remaining=stick_remaining-n
-    if stick_remaining==0:
+    if stick_remaining<=0:
         print(f"{player},  picks the last stick and loses the game")
     else:
         player=player2
         print(f"stick remaining",stick_remaining)
         i=int(input(f"{player} pick 1,2 or 3 sticks"))
         stick_remaining=stick_remaining-i
-        if stick_remaining==0:
+        if stick_remaining<=0:
            print(f"{player} picks the last stick and loses the game")
 print()
