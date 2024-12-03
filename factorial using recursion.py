@@ -1,5 +1,5 @@
 """author: Daiji Kuriakose
-   Date  : 22/10/2024
+   Date  : 3/12/2024
    Write a Python program to find factorial of a number using recursion:
    """
 def factorial(n):
